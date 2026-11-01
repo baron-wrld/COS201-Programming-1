@@ -26,3 +26,24 @@ Skills Practised
 * Using the main method.
 * Displaying output.
 * Understanding Java class names.
+
+Week 2: Development Environment and First Java Program
+
+Practical Exercise
+
+Created a Java programme named HelloWorld.java.
+
+Objective
+
+To learn the basic structure of a Java programme and display messages using the System.out.println() statement.
+
+File Location
+
+week02/HelloWorld.java
+
+Skills Practised
+
+* Creating a Java source file.
+* Understanding the main method.
+* Displaying output using System.out.println().
+* Organising practical work in GitHub.
